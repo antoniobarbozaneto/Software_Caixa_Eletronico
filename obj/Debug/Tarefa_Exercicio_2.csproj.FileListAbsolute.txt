@@ -1,0 +1,20 @@
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (3º SEMESTRE)\MATÉRIAS PRESENCIAIS\(POO) PROGRAMAÇÃO ORIENTADO OBJETO\Tarefa\Tarefa_Exercicio_2\bin\Debug\Tarefa_Exercicio_2.exe.config
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (3º SEMESTRE)\MATÉRIAS PRESENCIAIS\(POO) PROGRAMAÇÃO ORIENTADO OBJETO\Tarefa\Tarefa_Exercicio_2\bin\Debug\Tarefa_Exercicio_2.exe
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (3º SEMESTRE)\MATÉRIAS PRESENCIAIS\(POO) PROGRAMAÇÃO ORIENTADO OBJETO\Tarefa\Tarefa_Exercicio_2\bin\Debug\Tarefa_Exercicio_2.pdb
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (3º SEMESTRE)\MATÉRIAS PRESENCIAIS\(POO) PROGRAMAÇÃO ORIENTADO OBJETO\Tarefa\Tarefa_Exercicio_2\obj\Debug\Tarefa_Exercicio_2.csprojAssemblyReference.cache
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (3º SEMESTRE)\MATÉRIAS PRESENCIAIS\(POO) PROGRAMAÇÃO ORIENTADO OBJETO\Tarefa\Tarefa_Exercicio_2\obj\Debug\Tarefa_Exercicio_2.Form1.resources
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (3º SEMESTRE)\MATÉRIAS PRESENCIAIS\(POO) PROGRAMAÇÃO ORIENTADO OBJETO\Tarefa\Tarefa_Exercicio_2\obj\Debug\Tarefa_Exercicio_2.Properties.Resources.resources
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (3º SEMESTRE)\MATÉRIAS PRESENCIAIS\(POO) PROGRAMAÇÃO ORIENTADO OBJETO\Tarefa\Tarefa_Exercicio_2\obj\Debug\Tarefa_Exercicio_2.csproj.GenerateResource.cache
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (3º SEMESTRE)\MATÉRIAS PRESENCIAIS\(POO) PROGRAMAÇÃO ORIENTADO OBJETO\Tarefa\Tarefa_Exercicio_2\obj\Debug\Tarefa_Exercicio_2.csproj.CoreCompileInputs.cache
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (3º SEMESTRE)\MATÉRIAS PRESENCIAIS\(POO) PROGRAMAÇÃO ORIENTADO OBJETO\Tarefa\Tarefa_Exercicio_2\obj\Debug\Tarefa_Exercicio_2.exe
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (3º SEMESTRE)\MATÉRIAS PRESENCIAIS\(POO) PROGRAMAÇÃO ORIENTADO OBJETO\Tarefa\Tarefa_Exercicio_2\obj\Debug\Tarefa_Exercicio_2.pdb
+C:\Users\6110166\OneDrive - Thomson Reuters Incorporated\Documents\Faculdade\Tarefa_Exercicio_2\Exercicio_2\bin\Debug\Tarefa_Exercicio_2.exe.config
+C:\Users\6110166\OneDrive - Thomson Reuters Incorporated\Documents\Faculdade\Tarefa_Exercicio_2\Exercicio_2\bin\Debug\Tarefa_Exercicio_2.exe
+C:\Users\6110166\OneDrive - Thomson Reuters Incorporated\Documents\Faculdade\Tarefa_Exercicio_2\Exercicio_2\bin\Debug\Tarefa_Exercicio_2.pdb
+C:\Users\6110166\OneDrive - Thomson Reuters Incorporated\Documents\Faculdade\Tarefa_Exercicio_2\Exercicio_2\obj\Debug\Tarefa_Exercicio_2.csprojAssemblyReference.cache
+C:\Users\6110166\OneDrive - Thomson Reuters Incorporated\Documents\Faculdade\Tarefa_Exercicio_2\Exercicio_2\obj\Debug\Tarefa_Exercicio_2.Form1.resources
+C:\Users\6110166\OneDrive - Thomson Reuters Incorporated\Documents\Faculdade\Tarefa_Exercicio_2\Exercicio_2\obj\Debug\Tarefa_Exercicio_2.Properties.Resources.resources
+C:\Users\6110166\OneDrive - Thomson Reuters Incorporated\Documents\Faculdade\Tarefa_Exercicio_2\Exercicio_2\obj\Debug\Tarefa_Exercicio_2.csproj.GenerateResource.cache
+C:\Users\6110166\OneDrive - Thomson Reuters Incorporated\Documents\Faculdade\Tarefa_Exercicio_2\Exercicio_2\obj\Debug\Tarefa_Exercicio_2.csproj.CoreCompileInputs.cache
+C:\Users\6110166\OneDrive - Thomson Reuters Incorporated\Documents\Faculdade\Tarefa_Exercicio_2\Exercicio_2\obj\Debug\Tarefa_Exercicio_2.exe
+C:\Users\6110166\OneDrive - Thomson Reuters Incorporated\Documents\Faculdade\Tarefa_Exercicio_2\Exercicio_2\obj\Debug\Tarefa_Exercicio_2.pdb
